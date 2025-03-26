@@ -24,7 +24,7 @@
     StorageAccountUrl - URL for the Azure Storage account.
     SearchTerms   - Terms used to filter blob files.
     # Define search terms dynamically
-    #$SearchTerms = @("Production")
+    ##$SearchTerms = @("Production")
     #$SearchTerms = @("AZUSEYUMDBSQ468")
     #$SearchTerms = @("FinalBackup")
     #$SearchTerms = @("GETS")
